@@ -3,3 +3,4 @@ description: We're focused on connecting the world through education, collaborat
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+display_banner: false
