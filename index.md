@@ -38,7 +38,6 @@ p.clear{
 <ul class="subnav">
     <li class="subnav"><button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc5QAUczsbUuFqFCKZyUC3Y8iaiHrG5lUIzpAQb9_yza9mV0A/viewform'" class="button">Join Our Club</button></li>
     <li class="subnav"><button class="button">Donate</button></li>
-    <li class="subnav"><button class="button">Events</button></li>
 </ul>
 
 <p class="clear"> </p>
