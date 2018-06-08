@@ -10,7 +10,7 @@
     position: relative;
     background-color: #212121;
     border: none;
-    font-size: 28px;
+    font-size: 18px;
     color: #FFFFFF;
     padding: 20px;
     width: 200px;
@@ -24,7 +24,7 @@
 
 .button:after {
     content: "";
-    background: #90EE90;
+    background: #212121;
     display: block;
     position: absolute;
     padding-top: 300%;
