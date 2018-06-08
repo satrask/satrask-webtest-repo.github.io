@@ -8,7 +8,7 @@
 <style>
 .button {
     position: relative;
-    background-color: #4CAF50;
+    background-color: #212121;
     border: none;
     font-size: 28px;
     color: #FFFFFF;
@@ -45,9 +45,7 @@
 </head>
 <body>
 
-<h2>Animated Button - Ripple Effect</h2>
-
-<button class="button">Click Me</button>
+<button class="button">Join Our Club</button>
 
 </body>
 </html>
