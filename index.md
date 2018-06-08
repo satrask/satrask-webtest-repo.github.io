@@ -24,7 +24,7 @@
 
 .button:after {
     content: "";
-    background: #212121;
+    background: #FFFFFF;
     display: block;
     position: absolute;
     padding-top: 300%;
