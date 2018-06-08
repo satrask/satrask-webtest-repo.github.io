@@ -44,7 +44,6 @@ ul.subnav{
 list-style-type: none;
 }
 li.subnav{
-float: left;
 }
 </style>
 </head>
