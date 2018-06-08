@@ -20,26 +20,6 @@
     cursor: pointer;
 }
 
-/*.button:after {
-    content: "";
-    background: #FFFFFF;
-    display: block;
-    position: absolute;
-    padding-top: 300%;
-    padding-left: 350%;
-    margin-left: -20px!important;
-    margin-top: -120%;
-    opacity: 0;
-    transition: all 0.8s
-}*/
-
-/*.button:active:after {
-    padding: 0;
-    margin: 0;
-    opacity: 1;
-    transition: 0s
-}*/
-
 ul.subnav{
     list-style-type: none;
 }
@@ -51,6 +31,7 @@ li.subnav{
 
 li.clear{
     float: none;
+    clear: left;
 }
 
 </style>
@@ -61,8 +42,9 @@ li.clear{
     <li class="subnav"><button class="button">Join Our Club</button></li>
     <li class="clear"></li>
 </ul>
-<p></p>
 </html>
+
+# 
 
 # Mauris et orci.
 
