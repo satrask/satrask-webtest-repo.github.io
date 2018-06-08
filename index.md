@@ -13,14 +13,14 @@
     padding: 20px;
     width: 200px;
     text-align: center;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
+    /*-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;*/
     text-decoration: none;
     overflow: hidden;
     cursor: pointer;
 }
 
-.button:after {
+/*.button:after {
     content: "";
     background: #FFFFFF;
     display: block;
@@ -31,14 +31,14 @@
     margin-top: -120%;
     opacity: 0;
     transition: all 0.8s
-}
+}*/
 
-.button:active:after {
+/*.button:active:after {
     padding: 0;
     margin: 0;
     opacity: 1;
     transition: 0s
-}
+}*/
 </style>
 </head>
 <body>
