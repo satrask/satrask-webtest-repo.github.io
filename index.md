@@ -36,8 +36,9 @@ p.clear{
 </head>
 
 <ul class="subnav">
-    <li class="subnav"><button class="button">Join Our Club</button></li>
-    <li class="subnav"><button onclick="window.location.href='./another-page.html'" class="button">Join Our Club</button></li>
+    <li class="subnav"><button onclick="window.location.href=''" class="button">Join Our Club</button></li>
+    <li class="subnav"><button class="button">Donate</button></li>
+    <li class="subnav"><button class="button">Events</button></li>
 </ul>
 
 <p class="clear"> </p>
