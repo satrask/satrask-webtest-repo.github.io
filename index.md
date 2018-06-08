@@ -36,11 +36,13 @@ p.clear{
 </head>
 
 <ul class="subnav">
-    <li class="subnav"><button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc5QAUczsbUuFqFCKZyUC3Y8iaiHrG5lUIzpAQb9_yza9mV0A/viewform'" class="button">Join Our Club</button></li>
-    <li class="subnav"><button class="button">Donate</button></li>
+    <li class="subnav"><button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSc5QAUczsbUuFqFCKZyUC3Y8iaiHrG5lUIzpAQb9_yza9mV0A/viewform', '_blank')" class="button">Join Our Club</button></li>
+    <li class="subnav"><button onclick="window.location.href='./another-page.html'"class="button">Donate</button></li>
 </ul>
 
 <p class="clear"> </p>
+<br />
+
 </html>
 
 # Mauris et orci.
