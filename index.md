@@ -13,8 +13,6 @@
     padding: 20px;
     width: 200px;
     text-align: center;
-    /*-webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;*/
     text-decoration: none;
     overflow: hidden;
     cursor: pointer;
@@ -29,7 +27,7 @@ li.subnav{
     padding-right: 15px;
 }
 
-li.clear{
+p.clear{
     float: none;
     clear: left;
 }
@@ -39,12 +37,11 @@ li.clear{
 
 <ul class="subnav">
     <li class="subnav"><button class="button">Join Our Club</button></li>
-    <li class="subnav"><button class="button">Join Our Club</button></li>
-    <li class="clear"></li>
+    <li class="subnav"><button onclick="window.location.href='./another-page.html'" class="button">Join Our Club</button></li>
 </ul>
-</html>
 
-# 
+<p class="clear"> </p>
+</html>
 
 # Mauris et orci.
 
