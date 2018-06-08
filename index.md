@@ -54,14 +54,9 @@ li.subnav{
 <ul class="subnav">
     <li class="subnav"><button class="button">Join Our Club</button></li>
     <li class="subnav"><button class="button">Join Our Club</button></li>
+    <li style="float:none;"></li>
 </ul>
-
-<br />
-
 </html>
-
-
-
 
 # Mauris et orci.
 
