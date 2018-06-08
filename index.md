@@ -48,6 +48,9 @@ li.subnav{
 </style>
 </head>
 
+</body>
+</html>
+
 <ul class="subnav">
     <li class="subnav"><button class="button">Join Our Club</button></li>
 <li class="subnav"><button class="button">Join Our Club</button></li>
