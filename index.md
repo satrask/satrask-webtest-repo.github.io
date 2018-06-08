@@ -43,7 +43,7 @@
 </head>
 <body>
 
-<button href="./another-page.html" class="button">Join Our Club</button>
+<button onclick="window.location.href='./another-page.html'" class="button">Join Our Club</button>
 
 </body>
 </html>
