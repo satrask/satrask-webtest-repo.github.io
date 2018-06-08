@@ -47,14 +47,16 @@ li.subnav{
 }
 </style>
 </head>
-
-</body>
-</html>
-
+<body>
 <ul class="subnav">
     <li class="subnav"><button class="button">Join Our Club</button></li>
 <li class="subnav"><button class="button">Join Our Club</button></li>
 </ul>
+
+</body>
+</html>
+
+
 
 
 # Mauris et orci.
