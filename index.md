@@ -39,15 +39,21 @@
     opacity: 1;
     transition: 0s
 }*/
+
+ul.subnav{
+list-style-type: none;
+}
+li.subnav{
+float: left;
+}
 </style>
 </head>
 <body>
 
-<button onclick="window.location.href='./another-page.html'" class="button">Join Our Club</button>
-
-</body>
-</html>
-
+<ul class="subnav">
+    <li class="subnav"><button class="button">Join Our Club</button></li>
+<li class="subnav"><button class="button">Join Our Club</button></li>
+</ul>
 
 # Mauris et orci.
 
@@ -64,3 +70,6 @@ Donec ut est in lectus consequat consequat. Etiam eget dui. Aliquam erat volutpa
 # Vivamus a mi.
 
 Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus. Cras non magna vel ante adipiscing rhoncus. Vivamus a mi. Morbi neque. Aliquam erat volutpat. Integer ultrices lobortis eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh, vitae scelerisque nunc massa eget pede. Sed velit urna, interdum vel, ultricies vel, faucibus at, quam. Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi.
+
+</body>
+</html>
