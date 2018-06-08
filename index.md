@@ -1,7 +1,5 @@
 
 
-[Link to another page](./another-page.html).
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -45,7 +43,7 @@
 </head>
 <body>
 
-<button class="button">Join Our Club</button>
+<button href="./another-page.html" class="button">Join Our Club</button>
 
 </body>
 </html>
