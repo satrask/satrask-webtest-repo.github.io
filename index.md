@@ -48,13 +48,18 @@ li.subnav{
     float: left;
     padding-right: 15px;
 }
+
+li.clear{
+    float: none;
+}
+
 </style>
 </head>
 
 <ul class="subnav">
     <li class="subnav"><button class="button">Join Our Club</button></li>
     <li class="subnav"><button class="button">Join Our Club</button></li>
-    <li style="float:none;"></li>
+    <li class="clear"></li>
 </ul>
 </html>
 
