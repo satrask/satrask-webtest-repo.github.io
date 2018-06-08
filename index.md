@@ -41,16 +41,19 @@
 }*/
 
 ul.subnav{
-list-style-type: none;
+    list-style-type: none;
 }
+
 li.subnav{
+    float: left;
+    padding-right: 15px;
 }
 </style>
 </head>
 
 <ul class="subnav">
     <li class="subnav"><button class="button">Join Our Club</button></li>
-<li class="subnav"><button class="button">Join Our Club</button></li>
+    <li class="subnav"><button class="button">Join Our Club</button></li>
 </ul>
 
 </html>
