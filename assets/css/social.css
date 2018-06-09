@@ -2,6 +2,7 @@
 class.fa {
   padding: 20px;
   font-size: 30px;
+  float: right;
   width: 50px;
   text-align: center;
   text-decoration: none;
