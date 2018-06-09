@@ -28,8 +28,6 @@ input[type=submit]:hover {
 </style>
 <body>
 
-<h2>CSS Newsletter</h2>
-
 <form action="/action_page.php">
   <div class="container">
     <h2>Subscribe to our Newsletter</h2>
