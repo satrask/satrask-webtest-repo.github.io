@@ -10,6 +10,9 @@
 li.menu {
     float: left;
 }
+li.menuright {
+  float: right;
+}
 
 li.menu a {
     display: block;
