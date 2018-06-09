@@ -17,7 +17,7 @@ input[type=checkbox] {
 }
 
 input[type=submit] {
-    background-color: #4CAF50;
+    background-color: #4c8bef;
     color: white;
     border: none;
 }
