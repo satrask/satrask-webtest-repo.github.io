@@ -37,7 +37,7 @@ p.clear{
 
 <ul class="subnav">
     <li class="subnav"><button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSc5QAUczsbUuFqFCKZyUC3Y8iaiHrG5lUIzpAQb9_yza9mV0A/viewform', '_blank')" class="button">Join Our Club</button></li>
-    <li class="subnav"><button onclick="window.location.href='./another-page.html'" class="button">Sponsor</button></li>
+    <li class="subnav"><button onclick="window.location.href='./another-page.html'" class="button">Sponsor the Club</button></li>
 </ul>
 
 <p class="clear"> </p>
