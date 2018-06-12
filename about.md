@@ -1,3 +1,2 @@
-
-
-# Coming Soon
+# About Us
+Coming soon
