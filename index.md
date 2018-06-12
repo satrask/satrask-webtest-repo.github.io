@@ -37,9 +37,8 @@ p.clear{
 
 <ul class="subnav">
     <li class="subnav"><button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSc5QAUczsbUuFqFCKZyUC3Y8iaiHrG5lUIzpAQb9_yza9mV0A/viewform', '_blank')" class="button">Join our Club</button></li>
-    <li class="subnav"><button onclick="window.location.href='./sponsors.html'" class="button">Sponsor our Club</button></li>
+    <li class="subnav"><button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLScbqL3iEAuU7l97L3vlfF48KawByQ6b3-0tFCTnSAK_QWQEQA/viewform', '_blank')" class="button">Sponsor our Club</button></li>
 </ul>
-
 <p class="clear"> </p>
 <br />
 
