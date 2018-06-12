@@ -1,2 +1,2 @@
-# Contact the UW Blockchain Club
+# Contact Us
 Coming soon
